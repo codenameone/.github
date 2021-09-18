@@ -4,4 +4,4 @@
 
 # Hello, We're Codename One
 
-Codename One was founded by @shai-almog, @chen-fishbein and later @shannah. It's an open source company that builds mobile solutions for Java and Kotlin developers. Please check out our main product [Codename One](https://github.com/codenameone/CodenameOne/) to learn more.
+Codename One was founded by [@shai-almog](https://github.com/shai-almog), [@chen-fishbein](https://github.com/chen-fishbein/) and [@shannah](https://github.com/shannah/). It's an open source company that builds mobile solutions for Java and Kotlin developers. Please check out our main product [Codename One](https://github.com/codenameone/CodenameOne/) to learn more.
